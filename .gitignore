@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Euglena_Class/Phototrophs_Class/obj/Release/Euglena.csproj.AssemblyReference.cache
+/Euglena_Class/Phototrophs_Class/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+/Euglena_Class/.vs/Euglena/v17/.suo
+/Euglena_Class/.vs/Euglena/FileContentIndex/read.lock
+/Euglena_Class/.vs/Euglena/FileContentIndex/680144af-77e2-4bf8-9d99-93faec27b49a.vsidx
+/Euglena_Class/.vs/Euglena/FileContentIndex/13a3005b-9a1a-4fbe-80e1-b62da84b56cc.vsidx
+/.vs/Verse.GeneDef/v17/.wsuo
