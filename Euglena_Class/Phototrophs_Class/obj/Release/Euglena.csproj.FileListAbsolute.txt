@@ -1,0 +1,7 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Euglena Framework\Assemblies\Phototrophs_Class.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Euglena Framework\Assemblies\Phototrophs_Class.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Euglena Framework\Euglena_Class\Phototrophs_Class\obj\Release\Euglena.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Euglena Framework\Euglena_Class\Phototrophs_Class\obj\Release\Euglena.csproj.CopyComplete
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Euglena Framework\Euglena_Class\Phototrophs_Class\obj\Release\Phototrophs_Class.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Euglena Framework\Euglena_Class\Phototrophs_Class\obj\Release\Phototrophs_Class.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Euglena Framework\Euglena_Class\Phototrophs_Class\obj\Release\Euglena.csproj.AssemblyReference.cache
