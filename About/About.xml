@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Euglena Framework</name>
+	<author>DemonRoka</author>
+	<packageId>DemonRoka.EuglenaLibrary</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Library that provides functionality to euglena mods.
+
+Библиотека, обеспечивающая функциональность модов  Euglena.
+	</description>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+	</loadAfter>
+</ModMetaData>

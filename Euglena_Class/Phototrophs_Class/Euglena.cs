@@ -17,6 +17,7 @@ using Verse.Sound;
 
 namespace Euglena
 {
+    //test cm
     public class StockGenerator_SingleDefRand : StockGenerator
     {
         private ThingDef thingDef;
